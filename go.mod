@@ -25,6 +25,7 @@ require (
 )
 
 require (
+	github.com/databus23/helm-diff/v3 v3.8.1
 	github.com/gonvenience/ytbx v1.4.4
 	github.com/google/go-cmp v0.5.9
 	github.com/homeport/dyff v1.5.7

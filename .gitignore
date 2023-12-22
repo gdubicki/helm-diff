@@ -5,3 +5,6 @@ release/
 .envrc
 .idea
 docker-run-release-cache/
+helm-diff
+*.tgz
+
